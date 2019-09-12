@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Niharika Sachdev niharika@gmail.com @niharika
 
 # THANKS
 
